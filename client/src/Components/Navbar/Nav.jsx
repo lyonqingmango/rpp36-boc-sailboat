@@ -38,7 +38,7 @@ const Navbar= (props) =>{
       </li>
       <li >
         <Link to="/settings">
-          <Tooltip title="Create Appointment" placement="bottom" arrow>
+          <Tooltip title="Settings" placement="bottom" arrow>
             <SettingsApplicationsIcon/>
           </Tooltip>
         </Link>
